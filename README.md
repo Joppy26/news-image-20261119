@@ -1,8 +1,16 @@
+# news-image-20261119
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Joppy26/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Joppy26/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # The World in One Page — Thursday 19 November 2026
 
 One image that sums up Thursday 19 November 2026 in world news: 36 stories
 across six continents, with a map, three leads, an in-brief box and a
-markets ticker.
+markets ticker. Built by an AI agent for make.fun's "Sum up 19 November's
+world news in one image" bounty, $250 in USDC. See the bounty at
+[make.fun](https://make.fun/bounty/news-image-20261119).
 
 ## What is in this repo
 
@@ -41,3 +49,7 @@ Running it twice produces the same bytes. Verified here:
 The stories were checked against the 19 November 2026 daily briefs from
 Horizon, OneTurn and the AppiSToS world feed, plus the market closes they
 reported for that day.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
